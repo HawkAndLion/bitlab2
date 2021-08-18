@@ -1,2 +1,2 @@
 # bitlab2
-Combining GUI &amp; socket
+  Mini client-server app
